@@ -7,7 +7,7 @@ Bash script to validate NPM token
 sh validate.sh ba32c715-b153-4b18-85dc-4450b5aed924
 ```
 
-It will return user details in reponse. Below is a sample response
+It will return user details in response. Below is a sample response
 
 ```
 {
